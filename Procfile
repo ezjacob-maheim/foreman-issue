@@ -1,0 +1,1 @@
+parent_process: ./parent.sh
